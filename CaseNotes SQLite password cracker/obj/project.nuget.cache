@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "56bkYeB2TvtfY0WO58IZx6Qi6NJBQcJetIynK+ddK+TSR1Tg+38nMBHu/Aqt0xPSmsE4tP07/NyhzEtlMhIyGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Artemis\\source\\repos\\CaseNotes SQLite password cracker\\CaseNotes SQLite password cracker\\CaseNotes SQLite password cracker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Artemis\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Artemis\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Artemis\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\Artemis\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
